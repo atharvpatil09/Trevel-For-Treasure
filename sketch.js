@@ -113,7 +113,7 @@ function setup() {
    obstaclesGroup = new Group();
    keysGroup = new Group();
 
- //  backgroundMusic1.loop();
+   backgroundMusic1.loop();
  
 }
 
